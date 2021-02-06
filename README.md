@@ -4,10 +4,7 @@
 
 > Created using React Hooks and deployed on netlify.
 
-## :film_projector: DEMO
-<p align="center">
-<img src="src/React App.gif" alt="tododemo">
-</p>
+
 
 **Technology Stack**
 
